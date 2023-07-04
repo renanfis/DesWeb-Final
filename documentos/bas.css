@@ -1,0 +1,26 @@
+@font-face {
+	font-family: "darker grotesque";
+	src: url('DarkerGrotesque-VariableFont_wght.ttf');
+  }
+
+body{
+ background-color: #212126 !important;
+}
+	
+header{
+	
+	height: 40% !important;
+}
+
+a.nav-link.active{
+	background-color: #8C5E54 !important;
+	border-color: #D9D9D9 !important;
+	border: 2px !important;;
+
+}
+a.nav-link
+{
+	color: #D9D9D9 !important;
+	
+}
+
